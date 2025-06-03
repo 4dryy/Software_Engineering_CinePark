@@ -1,4 +1,4 @@
-# **App Name**: CineMatch
+# **App Name**: CinePark
 
 ## Core Features:
 
